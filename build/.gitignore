@@ -1,0 +1,79 @@
+#data files and log files
+*.dta
+*.log
+*.smcl
+
+#word files
+*.doc
+*.docx
+*.txt
+
+#excel files
+
+*.xls
+*.xlsx
+*.csv
+*.xml
+
+#pdf files
+*.pdf
+
+#temporary files
+*~
+
+#tex-files
+*.tex
+*.aux
+*.lot
+*.out
+*.synctex.gz
+
+#images
+*.jpeg
+*.emf
+*.esp
+*.gif
+*.wmf
+*.jpg
+*.png
+*.gph
+*.eps
+
+
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# =========================
+# Operating System Files
+# =========================
+
+# OSX
+# =========================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must ends with two \r.
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
