@@ -15,3 +15,4 @@ if "`c(username)'"=="dwolfson" {
 						"Be sure to include this global in your user-specific path in STEP 1 of globals.do"
 						exit
 	}
+
